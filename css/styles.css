@@ -1,0 +1,55 @@
+
+
+/*# sourceMappingURL=styles.css.map */
+
+
+body {
+	font-family:  futura;
+	
+}
+
+#head {
+	text-align:  center;
+}
+
+#cards0 {
+	background-color: #5F9F9F;
+	height: 22.3em;
+
+}
+
+#cards1 {
+	background-color: #FBEC5D ;
+	height: 22.3em;
+}
+
+#cards2 {
+
+	background-color: #5F9F9F;
+	height: 22.3em;
+}
+
+img {
+	width: 20%;
+	height:  30%;
+}
+
+.cards {
+	width: 20%;
+	text-align: center;
+	margin-left:  1em;
+	padding: .5em;
+	margin-right:  .7em;
+	margin-bottom: 1em;
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+.clicker {
+	border: 1em dotted black;
+}
+
+
+
+
